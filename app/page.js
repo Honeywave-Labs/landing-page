@@ -8,8 +8,12 @@ export default function Home() {
     <>
       <Navbar />
       <Hero />
-      <About />  
-      <Footer /> 
+      <section id="about">
+        <About />
+      </section>
+      <section id="contact">
+        <Footer />
+      </section>
     </>
   );
 }
