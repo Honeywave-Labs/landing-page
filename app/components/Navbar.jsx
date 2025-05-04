@@ -10,10 +10,10 @@ export default function Navbar() {
           <span className="ml-4 text-3xl font-bold text-gray-800">Nectar Inc.</span>
         </Link>
         <div className="space-x-6">
-          <Link href="#features" className="text-black hover:text-gray-300">
+          <Link href="#home" className="text-black hover:text-gray-300">
             Home
           </Link>
-          <Link href="#pricing" className="text-black hover:text-gray-300">
+          <Link href="#about" className="text-black hover:text-gray-300">
             About
           </Link>
           <Link href="#contact" className="text-black hover:text-gray-300">
